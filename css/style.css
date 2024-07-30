@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+header {
+    position: absolute;
+    background-color: black;
+    width: 20%;
+    height: 90%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border-radius: 20px 0 0 20px;
+}
+
+h1 {
+    margin-top: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+nav {
+    text-align: left;
+    position: absolute;
+    left: 13%;
+    bottom: 5%;
+}
+
+li {
+    list-style-type: none;
+    font-size: 20px;
+}
+
+img {
+    width: 1em;
+}
+
+section {
+    position: absolute;
+    left: 20%;
+    margin-left: 5%;
+    background-color: gray;
+    width: 70%;
+    height: 90%;
+    border-radius: 0 20px 20px 0;
+}
